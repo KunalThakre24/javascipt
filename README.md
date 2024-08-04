@@ -1,3 +1,3 @@
 # javascipt
-A repo for all javascript language.
+A repo for javascript files.
 
